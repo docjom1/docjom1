@@ -1,108 +1,122 @@
-## 👑 JOMZ | AI Alpha Commander
+![JOMZ Banner](https://github.com/docjom1/assets/blob/main/banner.gif?raw=true)
 
-> _"AI doesn’t replace you. It multiplies you — if you command it right."_
+<h1 align="center">Hi, I'm <span style="color:#00FFFF">JOMZ</span> 👑 | <em>AI Alpha Commander</em></h1>
 
----
-
-### 🤖 I don’t just build websites — I **command AI** to do it.
-**Strategic systems. Automated workflows. Prompt-built everything.**
+> "AI doesn't replace you. It multiplies you — if you command it right."
 
 ---
 
-### 🧠 About Me
-AI-assisted web strategist using tools like **ChatGPT**, **Claude**, **Gemini**, and **Abacus.AI** to design, build, and automate growth systems. 
-I architect full-stack websites, Meta Ads dashboards, ClickUp workflows, and more — all **powered by prompt engineering**.
+## 🔥 I don’t just build websites — I command AI to do it.
+
+**Strategic Systems. Automated Workflows. Prompt-Built Everything.**
 
 ---
 
-### ⚙️ What I Use (and Command)
+## 👨‍💻 About Me
 
-#### 💬 AI Assistants & LLMs
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-10a37f?logo=openai&logoColor=white) 
-Claude • Gemini • Abacus.AI • AutoGPT • Command-R
+AI-assisted web strategist from 🇵🇭 Philippines using **ChatGPT, Claude, Gemini, Abacus.AI** and more to design, build, and automate smart growth systems. 
 
-#### 📢 Ad Automation & Marketing
-Meta Ads API • Google Ads • TikTok Ads • GA4 • Tag Manager • FB CAPI
+🔧 Architect of full-stack apps, Meta Ads trackers, ClickUp workflows, AI chat agents, and more — all powered by **prompt engineering**.
 
-#### ⚡ Workflow & Automation
+💡 *Soon-to-be CEO & Founder of* `MOJXAI` — a platform that simplifies personal life, work, and business through AI automation.
+
+---
+
+## 🧠 What I Use (and Command)
+
+### 🤖 AI Assistants & LLMs
+`ChatGPT` • `Claude` • `Gemini` • `Abacus.AI` • `AutoGPT` • `Command-R`
+
+### 📣 Ad Automation & Marketing
+Meta Ads API • Google Ads • TikTok Ads • GA4 • FB CAPI • Tag Manager
+
+### ⚙️ Workflow & Automation
 ClickUp • Zapier • Pabbly • Make.com • n8n • Google Sheets • Google Apps Script
 
-#### 📊 Dashboards & Data
-Looker Studio • Data Studio • BigQuery • Google Cloud Functions • GA4
+### 📊 Dashboards & Data
+Looker Studio • Data Studio • GA4 • Google Cloud Functions • BigQuery
 
-#### 👨‍💻 Code & Backend Systems
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-VisualStudio-5C2D91?logo=visualstudio&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+### 🧩 Code & Backend Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,vue,react,git,vscode,figma,php,dotnet,visualstudio,github,mysql,bootstrap,python,nodejs"/>
+</p>
 
-#### 🔍 SEO, Scaling & Deployment
+### 🚀 SEO, Scaling & Deployment
 Schema Markup • GitHub Pages • Blogger • Cloudflare • Proxies • VPNs • Multi-BM Ops
 
 ---
 
-### 🔧 Tools I Work On
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,vue,react,git,vscode,figma,php,dotnet,vstudio,github,mysql,python,bootstrap,nodejs&theme=dark" />
+## 🛠️ Tools I Work On
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,vue,react,vscode,git,figma,php,dotnet,nodejs,bootstrap,github,mysql,python"/>
 </p>
 
 ---
 
-### 📊 GitHub Metrics (Live & Animated)
-![JOMZ GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=docjom1&theme=tokyonight&hide_border=true)
-![JOMZ GitHub Stats](https://github-readme-stats.vercel.app/api?username=docjom1&show_icons=true&theme=tokyonight&hide_border=true)
-![JOMZ GitHub Trophies](https://github-profile-trophy.vercel.app/?username=docjom1&theme=darkhub&column=7&margin-w=5&margin-h=5)
+## 📈 GitHub Metrics (Live & Animated)
+
+![JOMZ GitHub Stats](https://github-readme-stats.vercel.app/api?username=docjom1&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=docjom1&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=docjom1&layout=compact&theme=tokyonight)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=docjom1&theme=monokai&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### 💼 Digital Marketing & Tech Lead
-I build full-stack systems, ads automation, and AI-powered workflows for my team and brands.
-
-[![ChatGPT](https://img.shields.io/badge/-ChatGPT-10a37f?logo=openai&logoColor=white)](https://chat.openai.com) 
-[![ClickUp](https://img.shields.io/badge/-ClickUp-7b68ee?logo=clickup&logoColor=white)](https://clickup.com) 
-[![Google Ads](https://img.shields.io/badge/-Google%20Ads-34a853?logo=googleads&logoColor=white)](https://ads.google.com) 
-[![Blogger](https://img.shields.io/badge/-Blogger-ff5722?logo=blogger&logoColor=white)](https://blogger.com)
-
----
-
-### 🚀 Projects
-- [Finance Dashboard](https://github.com/docjom1/finance_dashboard)
+## 🚀 Projects
+- [Finance Dashboard](https://github.com/docjom1/Finance-Dashboard)
 - [Slotking](https://github.com/docjom1/Slotking)
 - [lv33global](https://github.com/docjom1/lv33global)
-- [Xhadeflex](https://github.com/docjom1/xhadeflex)
+- [Xhadeflex](https://github.com/docjom1/Xhadeflex)
 
 ---
 
-### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?logo=linkedin&logoColor=white)](https://linkedin.com/in/jomztalks)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?logo=facebook&logoColor=white)](https://facebook.com/jomztalks101)
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?logo=instagram&logoColor=white)](https://instagram.com/jhomel101)
-[![X / Twitter](https://img.shields.io/badge/-X-black?logo=twitter&logoColor=white)](https://x.com/jomztalks)
+## 💼 Digital Marketing & Tech Lead
+
+I build full-stack systems, ads automation, and AI-powered workflows for teams and brands.
+
+> **Tools Used:** `ChatGPT`, `ClickUp`, `Google Ads`, `Blogger`
 
 ---
 
-### 🌟 Featured Section (LinkedIn Taglish Post)
+## 🌟 Featured Section (LinkedIn Taglish Post)
 
 > 🔥 **Ready to command the algorithm?**
 >
-> AI na ang kalaban ngayon.
+> AI na ang kalaban ngayon. 
 >
 > Hindi lang ako nagde-develop. **Nag-uutos ako sa AI para magtrabaho.**
 >
 > Strategic systems, automated workflows, and powerful prompts — all under my command.
 >
-> 👉 Check my GitHub Profile: [@docjom1](https://github.com/docjom1)
-> 
-> _#AIAlphaCommander #AIPromptEngineer #DigitalStrategist_
+> 📅 Check my GitHub Profile: [@docjom1](https://github.com/docjom1)
+>
+> #AIAlphaCommander #AIPromptEngineer #DigitalStrategist
+
+---
+
+## 🎯 Vision
+
+**MOJXAI** will become the go-to AI-powered system for Filipinos around the world —
+enabling smart, simple, automated lives across work, business, and daily personal tasks.
+
+**Watch me build the future. One command at a time.**
+
+---
+
+## ⚡ Bonus: Want Your GitHub to Look Like This?
+DM me. I do personal branding for tech devs.
+
+---
+
+## 🧬 Extras Coming Soon:
+- Lottie animations
+- AI-generated SVG headers
+- Hover-triggered glow cards
+- Typing text banners
+
+---
+
+> ✨ *"First you automate your systems. Then you automate your success."*
