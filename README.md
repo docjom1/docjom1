@@ -1,8 +1,12 @@
 ![JOMZ Banner](https://github.com/docjom1/assets/blob/main/banner.gif?raw=true)
 
-<h1 align="center">Hi, I'm <span style="color:#00FFFF">JOMZ</span> 👑 | <em>AI Alpha Commander</em></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=%F0%9F%A7%A0+JOMZ+%7C+AI+Alpha+Commander;Digital+Strategist+%26+System+Builder;AI-powered+automation+for+brands+%26+teams"/>
+</h1>
 
-> "AI doesn't replace you. It multiplies you — if you command it right."
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=docjom1&layout=compact&theme=radical"/>
+</p>
 
 ---
 
