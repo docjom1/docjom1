@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/199086927?v=4" width="240" alt="JOMZ Avatar"/>
+</p>
+
+
 ![JOMZ Banner](https://github.com/docjom1/assets/blob/main/banner.gif?raw=true)
 
 <!-- Typing header (desktop + mobile) -->
