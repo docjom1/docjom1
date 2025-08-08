@@ -1,7 +1,7 @@
 ![JOMZ Banner](https://github.com/docjom1/assets/blob/main/banner.gif?raw=true)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=%F0%9F%A7%A0+JOMZ+%7C+AI+Alpha+Commander;Digital+Strategist+%26+System+Builder;AI-powered+automation+for+brands+%26+teams"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=%F0%9F%A7%A0+JOMZ+%7C+AI+Alpha+Commander; Digital+Strategist+%26+System+Builder;AI-powered+automation+for+brands+%26+teams"/>
 </h1>
 
 <p align="center">
