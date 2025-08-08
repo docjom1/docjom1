@@ -1,15 +1,21 @@
-![JOMZ Neon Banner](assets/banner.svg)
+![JOMZ Banner](https://github.com/docjom1/assets/blob/main/banner.gif?raw=true)
 
+<!-- Typing header (desktop + mobile) -->
 <h1 align="center">
   <picture>
+    <!-- Mobile -->
     <source media="(max-width: 600px)"
       srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1100&color=00F7FF&center=true&vCenter=true&width=440&height=44&lines=%F0%9F%A7%A0+JOMZ+%7C+AI+Alpha+Commander;Digital+Strategist+%26+System+Builder;AI%E2%80%91powered+automation+for+brands+%26+teams" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1100&color=00F7FF&center=true&vCenter=true&width=980&height=56&lines=%F0%9F%A7%A0+JOMZ+%7C+AI+Alpha+Commander;Digital+Strategist+%26+System+Builder;AI%E2%80%91powered+automation+for+brands+%26+teams" />
+    <!-- Desktop -->
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1100&color=00F7FF&center=true&vCenter=true&width=980&height=56&lines=%F0%9F%A7%A0+JOMZ+%7C+AI+Alpha+Commander;Digital+Strategist+%26+System+Builder;AI%E2%80%91powered+automation+for+brands+%26+teams"
+      alt="JOMZ | AI Alpha Commander — Digital Strategist & System Builder — AI-powered automation for brands & teams" />
   </picture>
 </h1>
 
+
 <p align="center">
-  <b>Strategic Systems · Automated Workflows · Prompt‑Built Everything</b>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=docjom1&layout=compact&theme=radical"/>
 </p>
 
 
